@@ -1,4 +1,4 @@
-# Logs
+# Inicio sesion
 logs
 *.log
 npm-debug.log*
@@ -6,13 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-
+#Dependecias y archivos que se compilan
 node_modules
 dist
 dist-ssr
 *.local
 
-# Editor directories and files
+# EDITOR Y ARCHIVOS
 .vscode/*
 !.vscode/extensions.json
 .idea
